@@ -28,6 +28,8 @@ You can also use yarn to install dependencies instead of npm.
                                                         
 After the comand finished, you should see a Compiled successfully! message in your terminal window. Also, a web server service will be started so you can view your app in the browser: http://localhost:3000
 
+If some error occurred, you can solve via npm install webpack-dev-server@2.9.7 --save-dev.
+
 ### Production Build
 
 To create a production optimised build run the command below:
